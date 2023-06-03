@@ -1,11 +1,12 @@
 # MERN Authentication Starter
 
-This is a starter app for a MERN stack application with authentication. This is for a SPA (Single Page Application) workflow that uses the [Vite](https://vite.dev) Build tool. This authentication workflow is based off of my [MERN Stack From Scratch | eCommerce](https://www.traversymedia.com/mern-stack-from-scratch) course.
+This is a starter app for a MERN stack application with authentication. This is for a SPA (Single Page Application) workflow that uses the [Vite](https://vitejs.dev/) Build tool. This authentication buil from learning [JWT auth](https://jwt.io/)
 
 
-img
+<img width="990" alt="screen" src="https://github.com/pattjoshi/MERN_Auth_jwt/assets/78966839/0d015682-c859-400d-a87e-0eabfea41ef0">
 
-It includes the following:
+
+### It includes the following:
 
 - Backend API with Express & MongoDB
 - Routes for auth, logout, register, profile, update profile
@@ -20,7 +21,7 @@ It includes the following:
 ## Usage
 
 - Create a MongoDB database and obtain your `MongoDB URI` - [MongoDB Atlas](https://www.mongodb.com/cloud/atlas/register)
-- Create a PayPal account and obtain your `Client ID` - [PayPal Developer](https://developer.paypal.com/)
+
 
 ### Env Variables
 
@@ -30,7 +31,7 @@ Rename the `.env.example` file to `.env` and add the following
 NODE_ENV = development
 PORT = 5000
 MONGO_URI = your mongodb uri
-JWT_SECRET = 'abc123'
+JWT_SECRET = 'opop909027'
 ```
 
 Change the JWT_SECRET to what you want
@@ -61,3 +62,19 @@ npm run server
 cd frontend
 npm run build
 ```
+
+## YouTub :- [I Learn from this ](https://www.youtube.com/watch?v=R4AhvYORZRY&t=7363s "click to open")
+
+🙏 If you find this repo helpful then don't forget to give a star ❇️ to this repository. :)
+
+
+
+
+
+
+
+
+
+
+
+
