@@ -80,7 +80,7 @@ npm run build
 
 - State management in the application is implemented using Redux Toolkit, which provides a predictable state container for managing the application's data.
 
--React Toastify notifications will be integrated to provide real-time feedback, displaying messages for successful actions, error messages, and other relevant information.
+- React Toastify notifications will be integrated to provide real-time feedback, displaying messages for successful actions, error messages, and other relevant information.
 
 - In summary, this project will deliver a secure and user-friendly full-stack application with Express, MongoDB, React, React Bootstrap,redux-toolKit and React Toastify. It will include authentication, registration, profile management, and error handling features.
 
